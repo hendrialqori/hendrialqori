@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @hendrialqori
-- 👀 I’m interested in frontend field
-- 🌱 I’m currently learning typescript and angular
-- 📫 I'm love to learn something new
+- 👋 Hi, hendrialqori was here
 
 <!---
 hendrialqori/hendrialqori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
