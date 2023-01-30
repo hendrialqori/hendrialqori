@@ -1,7 +1,8 @@
-**👋 Hi, hendrialqori was here** 
+### 👋 Hi, hendrialqori was here 
 
-> _" You can never understand everything. But, you should push yourself to understand the system "_
->> **Ryan Dahl (Creator of Node JS)**
+> _" You can never understand everything. But, you should push yourself to understand the system "_  
+> 
+>  **Ryan Dahl (Creator of Node JS)**
 
 
 <!---
